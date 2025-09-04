@@ -1,26 +1,30 @@
-// File: template.h
-// Author:Kayode Binitie
-// Student ID: 2461327
-// Email: binitie@chapman.edu
-// Class: CPSC 350: Data Structures and Algorithms FA25 Section 02
-// Assignment: 
+# Programming Assignment 2: Not So Super Mario Bros
 
-// Description:
+## Identifying Information
 
-#ifndef TEMPLATE_H
-#define TEMPLATE_H
+### Contributors 
 
-/*
-   Class: Class
-   Description: 
-   Parameters:
-   Exceptions:
- */
-class Class
-{
-	private:
+- Name: Kayode Binitie
+- Student ID: 2461327
+- Email: binitie@chapman.edu
+- Class: CPSC 350: Data Structures and Algorithms FA25 Section 02
 
-	public:
-};
+- Name: Ariel Barberena
+- Student ID: 
+- Email: 
 
-#endif // TRANSLATOR_H
+## Project:
+
+## Files 
+- main.cpp 
+
+## Known Errors 
+None
+
+## References
+
+## Instructions
+
+### Compilation
+
+### Execution

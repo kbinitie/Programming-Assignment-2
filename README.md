@@ -22,9 +22,18 @@
 None
 
 ## References
+Previous Assignments
 
 ## Instructions
 
 ### Compilation
 
+```
+g++ *.cpp -o A1.exe
+```
+
 ### Execution
+
+```
+./A1.exe input.txt output.html
+```

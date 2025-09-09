@@ -10,3 +10,14 @@
 
 // Description:
 // Class for handling and maintaining character behavior in Not So Super Marios
+
+#include "Mario.h"
+Mario::Mario(){
+	unsigned int xPos, yPos; // Coordinates of the mario character
+	unsigned int PL, V;
+
+
+}
+
+Mario::~Mario(){}
+

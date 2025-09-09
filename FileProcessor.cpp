@@ -2,12 +2,20 @@
 //
 // Contributors:
 //
+// Contributors:
+//
 // Author:Kayode Binitie
 // Student ID: 2461327
 // Email: binitie@chapman.edu
 // Class: CPSC 350: Data Structures and Algorithms FA25 Section 02
-// Assignment: Programming Assignment 1: Robber Language Translation
 
+// Author:Ariel Barberena
+// Student ID:2467227
+// Email: barberena@chapman.edu
+// Class: CPSC 350: Data Structures and Algorithms FA25 Section 02
+//
+// Assignment: Programming Assignment 2: Not So Super Mario Bros
+//
 // Description:
 // Contains functions for file handling for the Not So Super Marios Game
 
@@ -73,10 +81,9 @@ void FileProcessor::processFile(const std::string input, std::string output)
 		{
 			params[i] = static_cast<unsigned int>(std::stoul(inputLine));
 		}
-		outputLine = outputLine;
-		outputFile << "<p><b>" << inputLine << "</b></p>" << std::endl;
-		outputFile << "<p><i>" << outputLine << "</i></p>" << std::endl;
 	}
+
+	// Start game:
 
 	// Closing tags
 	outputFile << "</body>" << std::endl;
